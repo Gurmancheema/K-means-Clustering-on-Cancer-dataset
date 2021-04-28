@@ -1,10 +1,10 @@
 # K-means-Clustering-on-Cancer-dataset
-Problem Description
+**Problem Description**
 
 The problem is to understand the clustering techniques used for a K-Means algorithm using the cancer dataset. K-Means algorithm
 can be trained on numerous parameters. In this notebook, the optimal parameters are chosen and the performance is visualised.
 
-Dataset Description
+**Dataset Description**
 
 Independent Variables:
 
